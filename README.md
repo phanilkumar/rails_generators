@@ -1,1 +1,1 @@
-Rails generators are an essential tool for improving our workflow. Through this repo we can create generators and customize existing ones. 
+Rails generators are an essential tool for improving our workflow. We can create and customize generators & templates.
